@@ -6,5 +6,6 @@
 - My previous experience as a math professor helps me communicate complex \(and potentially confusing\!\) ideas simply and clearly
 - I love helping people out! I have a history of running around being helpful on the internet
   <!--  - [The TeX StackExchange](https://tex.stackexchange.com/users/25378/kmacinnis)  -->
+- I get a kick out of automating tedious tasks
 
 Resume to be linked.
