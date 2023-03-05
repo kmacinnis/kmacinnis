@@ -8,4 +8,3 @@
   <!--  - [The TeX StackExchange](https://tex.stackexchange.com/users/25378/kmacinnis)  -->
 - I get a kick out of automating tedious tasks
 
-Resume to be linked.
